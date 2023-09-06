@@ -1,0 +1,11 @@
+Después de realizar el proceso de la instalación y config del JDK.
+-Apretamos el boton windows y al mismo tiempo la tecla "R".
+-Nos aparecera una ventanilla que escribiremos "cmd"
+-Nos abrira una ventanilla de color negro y buscaremos la dirección.
+-Para abrir una carpeta se escribira "cd NombreDeLaCarpeta"
+-Ejecutamos la clase que se tenga el main() de la forma siguiente:
+Se escribira "javac nombreDelArchivo.java"
+después de escribir esto se realizara otro archivo con el mismo nombre con extensión ".class"
+Y si sólo se necesita esa clase pues ya después lo compilamos de la sig. forma.
+"java NombreDelArchivo"
+
